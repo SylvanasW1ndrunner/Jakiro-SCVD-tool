@@ -1,0 +1,5 @@
+Test Loss: 0.2883303817361593
+Accuracy: 93.9690%
+Precision: 0.8956
+Recall: 0.9613
+F1 Score: 0.9273
